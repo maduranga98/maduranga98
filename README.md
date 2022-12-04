@@ -5,12 +5,12 @@ I’m Maduranga Gunasekara following an undergraduate degree👨‍🎓 in Infor
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maduranga98)](https://github.com/anuraghazra/github-readme-stats)
 
-### My Skills 
+### My Skills <img src="https://github.com/maduranga98/maduranga98/blob/main/a.gif" width="256" />
 * 📱 Mobile App Development
 * 💻Algorithm Development, Data Visualization , Data Analysis , Business Inteligent Dashboard Creation
 
-<img src="https://github.com/maduranga98/maduranga98/blob/main/a.gif" width="256" />
 
+<img src="https://github.com/maduranga98/maduranga98/blob/main/sample1.jpg" width="256" /> <img src="https://github.com/maduranga98/maduranga98/blob/main/sample2.jpg" width="256" />
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,dart,py,r,firebase,mongodb,mysql,flutter,unity,)](https://skillicons.dev)
 
 
