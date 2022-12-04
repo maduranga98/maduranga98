@@ -1,11 +1,15 @@
 ### Hi there 👋
-I’m Maduranga Gunasekara following an undergraduate degree in Information and Communication Engineering at Sri Lanka Technological Campus.
+I’m Maduranga Gunasekara following an undergraduate degree👨‍🎓 in Information and Communication Engineering at Sri Lanka Technological Campus.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maduranga98)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maduranga98)](https://github.com/anuraghazra/github-readme-stats)
 
+###My Skills 
+* 📱 Mobile App Development
+* 💻Algorithm Development, Data Visualization , Data Analysis , Business Inteligent Dashboard Creation
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,dart,py,r,firebase,mongodb,mysql,flutter,unity,)](https://skillicons.dev)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/maduranga98) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/maduranga-gunasekara-3768361b5/)
