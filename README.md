@@ -9,6 +9,7 @@ I’m Maduranga Gunasekara following an undergraduate degree👨‍🎓 in Infor
 * 📱 Mobile App Development
 * 💻Algorithm Development, Data Visualization , Data Analysis , Business Inteligent Dashboard Creation
 
+<img src="" width="256" />
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,dart,py,r,firebase,mongodb,mysql,flutter,unity,)](https://skillicons.dev)
 
